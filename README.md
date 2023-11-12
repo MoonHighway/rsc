@@ -11,7 +11,7 @@ Please get in touch anytime with questions.
 
 ## Slides
 
-- [Slides](https://slides.com/moonhighway/rsc)
+- [Slides](https://www.canva.com/design/DAFz4zFmK3s/U1jeWiru9i1mvAz0zNFzIA/view?utm_content=DAFz4zFmK3s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Articles, Talks, Related Resources
 
