@@ -18,6 +18,7 @@ Please get in touch anytime with questions.
 - [React Docs](https://react.dev)
 - [RSC from Scratch](https://github.com/reactwg/server-components/discussions/5)
 - [Server Components with Next Documentation](https://nextjs.org/docs/getting-started/react-essentials)
+- [Streaming Server Side Rendering with Suspense, Shaundai Person](https://www.youtube.com/watch?v=Q98l5o1y3ao)
 - [Patterns.dev Article, Lydia Hallie & Addy Osmani](https://www.patterns.dev/posts/react-server-components)
 - [Demystifying Server Components Tutorial, Matt Kruse](https://demystifying-rsc.vercel.app/)
 - [Server Components, React Advanced Talk, Mark Dalgleish](https://www.youtube.com/watch?v=36uY-c0E_EQ)
