@@ -1,6 +1,6 @@
 # React Server Components
 
-This is a repo of materials for the one hour React Server Components workshop taught by [Moon Highway](https://moonhighway.com).
+This is a repo of materials for the React Server Components workshop taught by [Moon Highway](https://moonhighway.com).
 
 ## Instructor Info
 
